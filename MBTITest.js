@@ -1,1 +1,1 @@
-<REPLACE_WITH_MBTI_TEST_CODE>
+<코드 캔버스의 MBTITest.js 전체 내용이 여기에 삽입되어야 합니다.>
